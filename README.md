@@ -4,3 +4,5 @@
 - #### 📫 How to contact me : [Email](mailto:sanyuchilas@gmail.com), [Telegram](https://t.me/sanyuchilas)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexander-keyer&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexander-keyer)](https://github.com/anuraghazra/github-readme-stats)
