@@ -9,20 +9,4 @@
 ![sanyuchilas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyuchilas&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   16 mins             ██████████████████████░░░   90.95% 
-C++                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
-
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
