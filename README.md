@@ -11,14 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████████████░░   91.31 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
