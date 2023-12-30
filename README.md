@@ -11,13 +11,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        4 mins              ████████████████████████░   96.46 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 
