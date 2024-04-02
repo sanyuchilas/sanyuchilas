@@ -1,8 +1,9 @@
-## 👋 Hi, I’m Sasha
+## Hi! I’m Sasha Keyer / sanyuchilas / sandushnilas
 
-- 👀 **I’m interested in React and Node JS app development** 
-- 🌱 I’m currently learning React JS and Node JS
-- 📫 How to contact me : [Email](mailto:sanyuchilas@gmail.com), [Telegram](https://t.me/sanyuchilas)
+- **I am interested in researches, space researches and improving life in the universe 🌠** 
+- I’m currently working in [Yandex](https://browser.yandex.ru/corp) as Fullstack
+- I'm currently working in [Voronka](https://voronka-events.ru/about/) as Frontend Dev
+- My personal page: [https://sandushnilas.com](https://sandushnilas.com)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sanyuchilas&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
 
