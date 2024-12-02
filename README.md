@@ -6,5 +6,22 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=sanyuchilas&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               16 hrs 38 mins      ███████████████████████░░   90.39 % 
+CSS                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 24 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
